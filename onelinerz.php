@@ -1,15 +1,15 @@
 <?php
 /**
  * @package Onelinerz-free
- * @version 1.2
+ * @version 1.3
  */
 /*
 Plugin Name: Onelinerz-free
-Plugin URI: http://corifone.com/wordpress-plugins/ 
+Plugin URI: http://skyblue-soft.com/wordpress-plugins/ 
 Description: This plugin will randomly display a funny oneliner from our <cite>Onelinerz-free plugin</cite> in the upper right of your admin screen as well as a colorized, animated version on every main page that your visitors can see.  This is the FREE version of this plugin. If you like it, please consider the Premium version of the plugin, that contains many more quips, setting options and is updated regularly. Additionally, premium users get priority support.
-Author: Corley Efurd (cor@corifone.com)
+Author: Corley Efurd (cor@skyblue-soft.com)
 Version: 1.2
-Author URI: http://www.corifone.com 
+Author URI: http://www.skyblue-soft.com 
 */
 
 include 'includes/options.php';

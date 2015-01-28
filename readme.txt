@@ -1,6 +1,6 @@
 === Onelinerz-free Plugin ===
 Contributors: Corley Efurd
-Donate link:http://www.corifone.com/
+Donate link:http://www.skyblue-soft.com/
 Tags: cookies, email, popup, hover, jquery, animate, animation, html5, css3, php, google, page, popup, popups, post, free, premium, revenue, sales, image, subscribe, form, corley
 Requires at least: 3.1
 Tested up to: 4.1
@@ -28,6 +28,6 @@ view the changes.
 
 == Questions ==
 
-For questions about this plugin, please send email to cor@corifone.com
+For questions about this plugin, please send email to cor@skyblue-soft.com
 
 
